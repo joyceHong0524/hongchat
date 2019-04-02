@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "26292338210",
+    "firebase_url": "https://hongchat.firebaseio.com",
+    "project_id": "hongchat",
+    "storage_bucket": "hongchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26292338210:android:12fa1af9894d136e",
+        "android_client_info": {
+          "package_name": "com.junga.hongchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26292338210-sj55c0v8e3iri8m3er2h358mu86rgv53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjanTb3vi6yvdNAjaVih0tzSu8KxAf0T8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
